@@ -1,0 +1,11 @@
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\Admissions\Admissions\obj\Debug\netcoreapp2.0\Admissions.csprojAssemblyReference.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\Admissions\Admissions\obj\Debug\netcoreapp2.0\Admissions.csproj.CoreCompileInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\Admissions\Admissions\obj\Debug\netcoreapp2.0\Admissions.AssemblyInfoInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\Admissions\Admissions\obj\Debug\netcoreapp2.0\Admissions.AssemblyInfo.cs
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\Admissions\Admissions\bin\Debug\netcoreapp2.0\Admissions.deps.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\Admissions\Admissions\bin\Debug\netcoreapp2.0\Admissions.runtimeconfig.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\Admissions\Admissions\bin\Debug\netcoreapp2.0\Admissions.runtimeconfig.dev.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\Admissions\Admissions\bin\Debug\netcoreapp2.0\Admissions.dll
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\Admissions\Admissions\bin\Debug\netcoreapp2.0\Admissions.pdb
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\Admissions\Admissions\obj\Debug\netcoreapp2.0\Admissions.dll
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\Admissions\Admissions\obj\Debug\netcoreapp2.0\Admissions.pdb

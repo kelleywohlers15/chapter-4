@@ -1,0 +1,11 @@
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\RPS\RPS\bin\Debug\netcoreapp2.0\RPS.deps.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\RPS\RPS\bin\Debug\netcoreapp2.0\RPS.runtimeconfig.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\RPS\RPS\bin\Debug\netcoreapp2.0\RPS.runtimeconfig.dev.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\RPS\RPS\bin\Debug\netcoreapp2.0\RPS.dll
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\RPS\RPS\bin\Debug\netcoreapp2.0\RPS.pdb
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.csprojAssemblyReference.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.csproj.CoreCompileInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.AssemblyInfoInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.AssemblyInfo.cs
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.dll
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\RPS\RPS\obj\Debug\netcoreapp2.0\RPS.pdb

@@ -1,0 +1,11 @@
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\FarhenheitToCelsius\FarhenheitToCelsius\bin\Debug\netcoreapp2.0\FarhenheitToCelsius.deps.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\FarhenheitToCelsius\FarhenheitToCelsius\bin\Debug\netcoreapp2.0\FarhenheitToCelsius.runtimeconfig.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\FarhenheitToCelsius\FarhenheitToCelsius\bin\Debug\netcoreapp2.0\FarhenheitToCelsius.runtimeconfig.dev.json
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\FarhenheitToCelsius\FarhenheitToCelsius\bin\Debug\netcoreapp2.0\FarhenheitToCelsius.dll
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\FarhenheitToCelsius\FarhenheitToCelsius\bin\Debug\netcoreapp2.0\FarhenheitToCelsius.pdb
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\FarhenheitToCelsius\FarhenheitToCelsius\obj\Debug\netcoreapp2.0\FarhenheitToCelsius.csprojAssemblyReference.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\FarhenheitToCelsius\FarhenheitToCelsius\obj\Debug\netcoreapp2.0\FarhenheitToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\FarhenheitToCelsius\FarhenheitToCelsius\obj\Debug\netcoreapp2.0\FarhenheitToCelsius.AssemblyInfoInputs.cache
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\FarhenheitToCelsius\FarhenheitToCelsius\obj\Debug\netcoreapp2.0\FarhenheitToCelsius.AssemblyInfo.cs
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\FarhenheitToCelsius\FarhenheitToCelsius\obj\Debug\netcoreapp2.0\FarhenheitToCelsius.dll
+C:\Users\kw145243\Desktop\C-Sharp-Projects\chapter 4\FarhenheitToCelsius\FarhenheitToCelsius\obj\Debug\netcoreapp2.0\FarhenheitToCelsius.pdb

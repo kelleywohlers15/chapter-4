@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorGame", "DoorGame\DoorGame.csproj", "{4755EB61-2CDC-48D8-B3DB-8CE245AD2781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4755EB61-2CDC-48D8-B3DB-8CE245AD2781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4755EB61-2CDC-48D8-B3DB-8CE245AD2781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4755EB61-2CDC-48D8-B3DB-8CE245AD2781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4755EB61-2CDC-48D8-B3DB-8CE245AD2781}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {324CA94B-62A7-41B5-A7AA-F4B308DF3B3A}
+	EndGlobalSection
+EndGlobal
